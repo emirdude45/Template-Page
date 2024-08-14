@@ -1,0 +1,40 @@
+ header{
+    height: 100px;
+  }
+  
+  header nav{
+    height: 100%;
+    justify-content: center;
+  }
+  
+  .container{
+    width: 80%;
+    margin: auto;
+    border-bottom: 2px solid rgb(255, 255, 255, 0.06);
+  }
+  
+  .container .menu{
+    column-gap: 48px;
+  }
+  
+  nav .menu ul li a{
+    color: white;
+  
+  }
+  
+  nav .menu ul li a:hover{
+    color: #0BA2C0;
+  
+  }
+  
+  
+  nav .menu .btn{
+    background-color: rgba(255, 255, 255, 0.08);  
+    border-radius: 56px;
+    color: #0BA2C0;
+  }
+  
+  nav .menu .btn:hover{
+    background-color: #0BA2C0;
+    color: white;
+  }

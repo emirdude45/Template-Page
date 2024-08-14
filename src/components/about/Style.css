@@ -1,0 +1,15 @@
+.container4{
+    margin-top: 150px;
+    text-align: left;
+    font-size: 16px;
+    }
+
+  .container4 .about-images img{
+    border-radius: 10px;
+  }
+
+  .container4 .content .read-more{
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 10px;
+  }

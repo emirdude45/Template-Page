@@ -1,0 +1,28 @@
+.pricing-section .container{
+    border: 0px;
+}
+
+.pricing-section .container .list-group li{
+    background-color: rgba(255, 255, 255, 0.073);
+    color: white;
+    border-color: rgba(255, 255, 255, 0);
+}
+.pricing-section .container .list-group .disabled{
+    color: rgba(255, 0, 0, 0.628);
+}
+
+.pricing-section .container .pricing-item .popular{
+    position: absolute;
+    right: 450px;
+    background-color: #0D6EFD;
+    padding: 4px 15px 6px 15px;
+}
+
+.pricing-section .container .pricing-item h4{
+    color: #0D6EFD;
+    font-size: 48px;
+}
+
+.pricing-section .container .pricing-item span{
+        font-size: 16px;
+}

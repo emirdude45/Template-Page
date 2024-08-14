@@ -1,0 +1,75 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body{
+  background-image:url(src/assets/images/abc.jpg);
+  background-size:cover;
+}
+
+header{
+  height: 100px;
+}
+
+header nav{
+  height: 100%;
+  justify-content: center;
+}
+
+.container{
+  width: 80%;
+  margin: auto;
+  border-bottom: 2px solid rgb(255, 255, 255, 0.06);
+}
+
+.container .menu{
+  column-gap: 48px;
+}
+
+nav .menu ul li a{
+  color: white;
+
+}
+
+nav .menu ul li a:hover{
+  color: #0BA2C0;
+
+}
+
+
+nav .menu .btn{
+  background-color: rgba(255, 255, 255, 0.08);  
+  border-radius: 56px;
+  color: #0BA2C0;
+}
+
+nav .menu .btn:hover{
+  background-color: #0BA2C0;
+  color: white;
+}
+
+.container2{
+  margin-top: 150px;
+
+  
+}
+
+.container2 .links a{
+  column-gap: 30px;
+}
+
+.container2 .links .btn{
+
+  background-color: rgba(255, 255, 255, 0.08);
+  border-radius: 56px;
+}
+
+
+
+.container2 .links .btn:hover{
+
+  background-color: #0BA2C0;
+}

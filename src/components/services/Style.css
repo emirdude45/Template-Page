@@ -1,0 +1,22 @@
+.services-section{
+    margin-top: 150px;
+  }
+  
+  .services-section .container{
+    border: 0px;
+  }
+
+  .read-more{
+    text-decoration: none;
+  }
+
+  .service-item{
+    padding: 20px;
+    border: 1px solid rgb(53, 52, 52);
+    border-radius: 5px;
+  }
+
+  .service-item:hover{
+    border-color: white;
+    transition: 0.3s;
+  }

@@ -1,0 +1,28 @@
+.footer p{
+    font-size: 14px;
+    font-weight: 400;
+
+}
+
+.footer .footer-about a{
+    font-size: 14px;
+    font-weight: 400;
+
+}
+
+.footer .container3{
+    padding: 10px;
+    text-align: left;
+    margin: auto;
+  }
+.footer .container3 li{
+    margin-bottom: 16px;
+  }
+
+.footer .container3 h2{
+    color: #c5c4c4;
+  }    
+  
+.footer .container3 h4{
+    color: #c5c4c4;
+  }    
